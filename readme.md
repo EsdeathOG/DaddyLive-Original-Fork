@@ -15,7 +15,7 @@ Note: To update the proxy for new changes, click on **Settings** then click on *
 ## Vercel
 1. Sign up to https://vercel.com/signup and select Hobby.
 2. Once your account is fully setup and activated, click **Deploy** button. <br><br>
-<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fpigzillaaaaa%2Fdaddylive" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FEsdeathOG%2FDaddyLive-Original-Fork" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 3. Connect your github account to vercel, set the scope and set the repository name (eg. dproxy) then click **Create**
 4. Wait for the project to build. If you see a ":)" then you are good to go.
 5. Go to the dashboard and under **Domain**, copy the url (eg. https://dproxy-g327.vercel.app).
