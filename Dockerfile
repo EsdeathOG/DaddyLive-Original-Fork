@@ -10,7 +10,7 @@ RUN apt-get update && apt-get install -y \
     libssl-dev \
     && rm -rf /var/lib/apt/lists/*
 
-RUN https://github.com/EsdeathOG/DaddyLive-Original-Fork .
+RUN git clone https://github.com/EsdeathOG/DaddyLive-Original-Fork .
 
 RUN pip install flask curl-cffi m3u8 gunicorn
 
